@@ -1,0 +1,15 @@
+form.search {
+    overflow: auto;
+    margin-bottom: 10px;
+  }
+  
+  form.search button[type="submit"] {
+    float: right;
+    margin-top: 10px;
+    background-color: salmon;
+    border-color: salmon;
+  }
+
+  form.search button[type="submit"]:hover {
+    opacity: 0.75;
+}

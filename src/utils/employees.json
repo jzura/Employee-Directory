@@ -1,0 +1,44 @@
+[
+    {
+      "id": "1",
+      "name": "Bill Smith",
+      "department": "Manager",
+      "email": "billsmith@example.com"
+    },
+    {
+      "id": "2",
+      "name": "Gary Bell",
+      "department": "Finance",
+      "email": "garybell@example.com"
+    },
+    {
+      "id": "3",
+      "name": "Fiona Carrol",
+      "department": "Human Resource",
+      "email": "fionacarrol@example.com"
+    },
+    {
+      "id": "4",
+      "name": "Sam Sauce",
+      "department": "Human Resource",
+      "email": "samsauce@gmail.com"
+    },
+    {
+      "id": "5",
+      "name": "Harry McKenna",
+      "department": "Human Resource",
+      "email": "harrymcKenna@rylee.org"
+    },
+    {
+      "id": "6",
+      "name": "Zac Martin",
+      "department": "Legal",
+      "email": "zacmartin@gmail.com"
+    },
+    {
+      "id": "7",
+      "name": "Adrian Butler",
+      "department": "IT",
+      "email": "adrianbutler@elvis.info"
+    }
+  ]

@@ -1,0 +1,10 @@
+.header {
+    background-color: salmon;
+    color: white;
+    cursor: pointer;
+    padding: 12px;
+    font-size: larger;
+}
+.header:hover {
+    opacity: 0.75;
+}
